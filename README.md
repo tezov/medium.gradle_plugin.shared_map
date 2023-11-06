@@ -1,4 +1,4 @@
-# Swift Handy Extensions for More Productive Development
+# Custom Gradle plugin as Standalone project.
 
 This repository is a support for a medium story
 
